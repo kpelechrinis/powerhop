@@ -10,6 +10,7 @@ This repository includes data and code from our study: E. Papalexakis, B. Hooi, 
 * CA-GrQc.txt and ca-HepTh.txt have the collaborations networks used
 * The Facebook social network used can be found here: http://socialnetworks.mpi-sws.org/data-wosn2009.html
 * moreno_propro.txt has the metabolic (protein-to-protein interactions) network
+* The Yahoo! web graph cannot be made available due to our agreement with Yahoo! However, Yahoo! is providing data access to eligible parties through application on webscope: http://webscope.sandbox.yahoo.com
 * The two urban networks were collected by as and can be found in: NYC_net.ncol and SF_net.ncol.  Every line has the format: |node 1|node 2|physical distance between the nodes| The last information was not used in our analysis.  The IDs of the nodes correspond to the actual IDs of the venues on Foursquare
 	-- If you use the urban networks please provide the appropriate citation to our work: E. Papalexakis, B. Hooi, K. Pelechrinis and C. Faloutsos, "Power-hop: A Pervasive Observation for Real Complex Networks" --
 
